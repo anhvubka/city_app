@@ -1,3 +1,4 @@
+{<img alt='Stories in Ready' src='https://badge.waffle.io/anhvubka/city_app.png?label=ready&title=Ready' />}[https://waffle.io/anhvubka/city_app]
 == README
 
 This README would normally document whatever steps are necessary to get the
